@@ -7,7 +7,7 @@ This is a simple website template featuring a login and signup form. It serves a
 
 ## Live Demo 🚀
 
-You can check out the live demo [here](#) 
+You can check out the live demo [here](https://adity4joshi.github.io/login-signup/) 
 
 ## Features ✨
 
